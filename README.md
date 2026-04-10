@@ -388,7 +388,7 @@
 
     // WhatsApp redirect
     function redirectWhatsApp() {
-        const number = '254785539042';
+        const number = '251105285185';
         const message = selectedPlan === 1
             ? 'Hello, I paid Ksh 500 for the Weekly plan. Please confirm.'
             : 'Hello, I paid Ksh 1,500 for the 3 Weeks plan. Please confirm.';
